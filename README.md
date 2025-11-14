@@ -22,3 +22,5 @@ pip install qutip
 
 ## Use binder
 #In case you could not install the mentioned packages, you could run the tutorials online through “binder”. Go to https://mybinder.org/v2/gh/zhenghh04/QCWorkshop/master, wait a minute or two, and then you should be able to execute our notebooks in the browser.
+
+RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
